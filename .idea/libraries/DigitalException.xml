@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DigitalException">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Exercício/DigitalException.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
